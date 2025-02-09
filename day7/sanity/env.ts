@@ -11,7 +11,7 @@ export const projectId = assertValue(
   'Missing environment variable: NEXT_PUBLIC_SANITY_PROJECT_ID'
 )
 export const token = assertValue(
-  "sk8FzvAJ0ouLCR2cPYobOlyho6aFFLAWJmr1nIZpb1vbqCWaY2yDhV4wLgCGkvIDyFu0vL1BEkAOnaHYQ0lpAbPIbgrRwLAz2KEzrfb2ajJKSK8Y3fEa158dDRE0qM5hGAGEz19PGr8ZGVCBGijhyoqPODcBYF8cmmdzFpGR7aKeCobqzYUw",
+  "skKPEYPg9eM6CDq5NzAYcJisLPFIzmr6APYboDBjm7JkHJTXMvk1LRpkzBbBjCtpCZ1LssrdNfqIDMPDq7FpksbIqlkA0SgHg1dtqOYW6lWDcy28suOkmLlulhOW0U5NMWj5GU7ceWETfJEiArFKQS1TxHwnOhgt6RW6rdToMnYs9aaaOf9R",
   'Missing environment variable: SANITY_API_TOKEN'
 )
 
