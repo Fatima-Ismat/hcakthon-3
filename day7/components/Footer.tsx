@@ -109,7 +109,7 @@ const Footer = () => {
 
       {/* Footer Bottom */}
       <div className="text-center text-gray-500 mt-6 border-t border-gray-700 pt-4">
-        Copyright © 2025 by Ismat. All Rights Reserved.
+        Copyright © 2022 by Ayeman. All Rights Reserved.
       </div>
 
       <ToastContainer />
