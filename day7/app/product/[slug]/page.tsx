@@ -6,6 +6,7 @@ import { client } from '@/sanity/lib/client'
 import { urlFor } from '@/sanity/lib/image'
 import AddToCartButton from '@/components/AddToCart'
 import {  Truck, ArrowRight } from 'lucide-react'
+import { Product } from '@/types/product'
 
 interface ProductPageProps {
   params: Promise<{ slug: string }> // Wrap params in Promise
