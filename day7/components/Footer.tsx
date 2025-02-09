@@ -85,7 +85,7 @@ const Footer = () => {
       {/* Subscription Section */}
       <div className="text-center mt-10">
         <h2 className="text-orange-500 text-2xl font-bold">Still You Need Our Support?</h2>
-        <p className="text-gray-400 mt-2">Dont wait, make a smart & logical quote here. It’s pretty easy.</p>
+        <p className="text-gray-400 mt-2">Dont wait, make a smart & logical quote here. Its pretty easy.</p>
         <div className="mt-4 flex justify-center">
           <input
             type="email"
@@ -109,7 +109,7 @@ const Footer = () => {
 
       {/* Footer Bottom */}
       <div className="text-center text-gray-500 mt-6 border-t border-gray-700 pt-4">
-        Copyright © 2022 by Ayeman. All Rights Reserved.
+        Copyright © 2025 by Ismat. All Rights Reserved.
       </div>
 
       <ToastContainer />
